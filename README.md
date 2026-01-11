@@ -1,44 +1,36 @@
-# Hi 👋 I'm Jezlan Samahath
+<h1 align="center">Jezlan Samahath</h1>
+<h3 align="center">DevOps & Cloud Engineering Undergraduate | SLIIT</h3>
 
-🎓 DevOps & Cloud Engineering Undergraduate at SLIIT  
-🚀 Aspiring DevOps Engineer | Cloud | Automation  
-📍 Sri Lanka  
+<p align="center">
+DevOps | Cloud Computing | CI/CD | Docker | AWS | Linux
+</p>
 
-## 🔧 Skills
-- Linux, Bash
-- Git & GitHub
-- Docker & Docker Compose
-- CI/CD (GitHub Actions, Jenkins – learning)
-- AWS (EC2, S3, IAM – learning)
-- Networking Fundamentals
+---
 
-## 🛠️ Tools
-Docker | GitHub Actions | AWS | Linux | Nginx | Terraform (learning)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-darkorange?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions)
+## 👨‍💻 Professional Summary
+DevOps and Cloud Engineering undergraduate with hands-on experience in Linux systems, Docker containerization, CI/CD pipelines, and basic AWS cloud services. Passionate about automation, infrastructure reliability, and continuous learning. Actively building real-world DevOps projects and seeking a DevOps or Cloud Engineering internship opportunity.
 
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+---
 
+## 🔧 Technical Skills
 
-## 📂 Featured Projects
-- 🚀 **Dockerized Node.js App**
-- ⚙️ **CI/CD Pipeline using GitHub Actions**
-- ☁️ **AWS EC2 Deployment with Nginx**
+**Operating Systems**
+- Linux (Ubuntu)
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
- https://linkedin.com/in/SamahathJezlan
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
- jezlansamahath@gmail.com
+**Version Control**
+- Git, GitHub
 
+**Containers & Orchestration**
+- Docker
+- Docker Compose
+- Kubernetes (fundamentals)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-darkorange?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions)
+**CI/CD & Automation**
+- GitHub Actions
+- Jenkins (basic)
+- Bash scripting (basic automation)
+
+**Cloud Platforms**
+- Amazon Web Services (AWS)
+  - EC2
+  - S3
